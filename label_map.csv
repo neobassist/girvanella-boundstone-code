@@ -1,0 +1,11 @@
+class_id,label_name
+0,intraclast
+1,thromboid
+2,peloid
+3,micrite
+4,spicule
+5,calcisphere
+6,bioclast
+7,cement
+8,matrix
+9,void
